@@ -1,0 +1,1 @@
+web: gunicorn geoip_api.wsgi --log-file -

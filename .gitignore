@@ -1,0 +1,4 @@
+.env
+vgeo/
+__pycache__/
+*.sqlite3
