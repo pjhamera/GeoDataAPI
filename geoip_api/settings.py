@@ -29,7 +29,7 @@ SECRET_KEY = getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['geodatadrf.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['geoappapi.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
