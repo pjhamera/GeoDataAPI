@@ -33,9 +33,9 @@ See the below example what to post to register: <br />
 
 ## Adding, viewing and deleting geo data
 - add data at /api/add/ <br />
-- delete data at /api/<pk>
+- delete data at /api/< pk >
 - list of all data at /api/list/ GET 
-- view individual items at /api/<pk> OR /api/url/<url>
+- view individual items at /api/< pk > OR /api/url/< url >
 - below you can see what you can add (url is optional): 
 
 {
